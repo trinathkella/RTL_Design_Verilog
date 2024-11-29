@@ -1,5 +1,5 @@
 module onebit_comparator(
-    input a_in,
+    input a_in;
     input b_in,
     output g_out,
     output e_out,
