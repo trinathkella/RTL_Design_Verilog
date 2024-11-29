@@ -1,5 +1,5 @@
 module flipflops(
-    input a_in,
+    input a_in;
     input b_in,
     input clk,
     input reset_n,
